@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache & build
+__pycache__/
+*.py[cod]
+*.class
+*.pyc
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Scratch & temporary test scripts
+fix.py
+fix_script.py
+build_app.py
+test_write.py
+test_ok.txt
+patcher.py
